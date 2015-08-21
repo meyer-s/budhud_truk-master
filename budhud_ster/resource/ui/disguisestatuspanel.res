@@ -68,7 +68,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"labelText"			"youtube.com/ster"
+		"labelText"			"youtube.com/truktruk"
 		"textAlignment"		"east"
 		"dulltext"			"0"
 		"brighttext"		"0"
